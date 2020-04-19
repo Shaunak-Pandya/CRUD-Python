@@ -1,7 +1,4 @@
-# CRUD in Python
-
-#About
-1) Contact Management System made in Python with Database Connectivity
+# Contact Management System made in Python with Database Connectivity
 
 #Libraries used:
 1) Tkinter
@@ -11,4 +8,7 @@
 #Steps to Use
 1) Download as zip or clone it to your directory
 2) I used Sublime Text Editor3
+
+Feel free to use this code and Quote me or contact me if you find any Difficulties 
+</> by Shaunak Pandya
 
